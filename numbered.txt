@@ -1,0 +1,7 @@
+1    snakes are cool
+2    dogs are cool
+3    cat is bad
+4    dog ate snake
+5    cat played with snake
+6    man loves snake
+7    man kills snake
